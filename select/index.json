@@ -1,0 +1,112 @@
+{
+  "version": 1,
+  "base_track": "ヒミツ",
+  "base_artist": "MIMI",
+  "createdAt": "2025-12-12T00:48:47.825692Z",
+  "candidates": [
+    {
+      "id": "lrclib_1",
+      "source": "lrclib",
+      "title": "ヒミツ",
+      "artist": "Polkadot Stingray",
+      "has_synced": true,
+      "path": "select/01_ヒミツ_Polkadot_Stingray.lrc"
+    },
+    {
+      "id": "lrclib_2",
+      "source": "lrclib",
+      "title": "ヒミツ",
+      "artist": "ポルカドットスティングレイ",
+      "has_synced": true,
+      "path": "select/02_ヒミツ_ポルカドットスティングレイ.lrc"
+    },
+    {
+      "id": "lrclib_3",
+      "source": "lrclib",
+      "title": "Himitsu [ヒミツ]",
+      "artist": "POLKADOT STINGRAY",
+      "has_synced": true,
+      "path": "select/03_Himitsu_[ヒミツ]_POLKADOT_STINGRAY.lrc"
+    },
+    {
+      "id": "lrclib_4",
+      "source": "lrclib",
+      "title": "ヒミツ -キミのそばに居るために-",
+      "artist": "Juliet",
+      "has_synced": false,
+      "path": "select/04_ヒミツ_-キミのそばに居るために-_Juliet.txt"
+    },
+    {
+      "id": "lrclib_5",
+      "source": "lrclib",
+      "title": "ヒミツ - Instrumental",
+      "artist": "POLKADOT STINGRAY",
+      "has_synced": false,
+      "path": "select/05_ヒミツ_-_Instrumental_POLKADOT_STINGRAY.txt"
+    },
+    {
+      "id": "lrclib_6",
+      "source": "lrclib",
+      "title": "ヒミツ",
+      "artist": "MIMI feat. 可不",
+      "has_synced": true,
+      "path": "select/06_ヒミツ_MIMI_feat._可不.lrc"
+    },
+    {
+      "id": "lrclib_7",
+      "source": "lrclib",
+      "title": "ヒミツ",
+      "artist": "MIMI feat. KAFU",
+      "has_synced": true,
+      "path": "select/07_ヒミツ_MIMI_feat._KAFU.lrc"
+    },
+    {
+      "id": "lrclib_8",
+      "source": "lrclib",
+      "title": "ヒミツ (feat. 可不)",
+      "artist": "MIMI",
+      "has_synced": true,
+      "path": "select/08_ヒミツ_(feat._可不)_MIMI.lrc"
+    },
+    {
+      "id": "lrclib_9",
+      "source": "lrclib",
+      "title": "ヒミツ ～キミのそばに居るために～",
+      "artist": "Juliet",
+      "has_synced": false,
+      "path": "select/09_ヒミツ_~キミのそばに居るために~_Juliet.txt"
+    },
+    {
+      "id": "lrclib_10",
+      "source": "lrclib",
+      "title": "ヒミツ ～キミのそばに居るために～ (Instrumental)",
+      "artist": "Juliet",
+      "has_synced": true,
+      "path": "select/10_ヒミツ_~キミのそばに居るために~_(Instrumental)_Juliet.lrc"
+    },
+    {
+      "id": "lrclib_11",
+      "source": "lrclib",
+      "title": "ヒミツ (feat. 可不)",
+      "artist": "MIMI, KAFU",
+      "has_synced": true,
+      "path": "select/11_ヒミツ_(feat._可不)_MIMI,_KAFU.lrc"
+    },
+    {
+      "id": "lrclib_12",
+      "source": "lrclib",
+      "title": "ヒミツ - Secret",
+      "artist": "Polkadot Stingray",
+      "has_synced": false,
+      "path": "select/12_ヒミツ_-_Secret_Polkadot_Stingray.txt"
+    },
+    {
+      "id": "petitlyrics_1",
+      "source": "petitlyrics",
+      "title": "ヒミツ",
+      "artist": "MIMI, 可不",
+      "has_synced": false,
+      "path": "select/pl_01_ヒミツ_MIMI,_可不.txt"
+    }
+  ]
+}
